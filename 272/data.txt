@@ -1,0 +1,31 @@
+Acalma Minha Tempestade
+
+% Time: 4/4
+
+% Introdução
+| G D | Em7 C9 |
+
+% Verso
+|: G | G C9 | - | C9 Em7 |
+Quando estou em alto mar / E as ondas vêm me agitar
+
+% Pre-Refrão
+| Em7 C9 | - G | - D |
+Por que tendes medo? (x3)
+
+% Transição
+1. |: G D Em7 C9 :|
+
+% Refrão
+2. |: G | Em7 | C9 D | G D | Em7 D |
+  | G | D | Em7 C9 | D2 G D :||
+Acalma minha tempestade / Acalma o meu coração  
+Devolve a paz que vem de Ti, Senhor / Aumenta minha fé em Ti  
+Não me deixa fraquejar jamais / Ao som da Tua voz  
+Tudo vai calar / Só preciso esperar / Tempestade vai acalmar (bis)
+
+% Final
+| D | Em7 C9 | D G |
+Vai acalmar  (x2)
+Tempestade vai acalmar
+
