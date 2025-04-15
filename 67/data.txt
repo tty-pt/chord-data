@@ -47,4 +47,3 @@ Inundar   o meu coração
         C#m
 Faz Chover
 
-<iframe width="280" height="157" src="https://www.youtube.com/embed/f097WHc7h3g?si=vMy5FFWAe9EusaRq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -15,4 +15,3 @@ Eu quero depender de Ti
 
 % andar, louvar, amar, viver
 
-<iframe src="https://www.youtube.com/embed/N1wuksItZfQ" frameborder="0"></iframe>
