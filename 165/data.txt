@@ -1,10 +1,11 @@
 Aleluia (Taizé)
 
-    Dm       F        Bb F
+    Cm       D#       G# D#
 Aleluia, aleluia, alelu-ia
-    Dm       F        Bb F Dm
+    Cm       D#       G# D# Cm
 Aleluia, aleluia, alelu--uia
-
-Dm F Bb F
-
+ 
+Cm D# G# D#
+ 
 <iframe src="https://www.youtube.com/embed/GWP3qmkIKeA" frameborder="0"></iframe>
+

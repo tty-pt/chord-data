@@ -1,32 +1,33 @@
 Chuva de Graça
 
-G D Em C
+D A Bm G
 (bis)
-            G              D
+            D              A
 Chuva de graça pedimos a ti
-            Em               C
+            Bm               G
 Chuva de graça derrama em nós
-            G             D
+            D             A
 Chuva de graça neste lugar
-     C
+     G
 Derrama!
-
+ 
 (volta)
-
-G                     D
+ 
+D                     A
 Há uma chuva de graça aqui
-Em                  C
+Bm                  G
 Está chovendo sobre todos nós
-G                      D
+D                      A
 E quem mais se entregar
-               C
+               G
 Mais se molhará
-
+ 
 Há uma semente pra germinar
 E muitos frutos a se produzir
 Na terra do coração
 Derrama tua graça
-
+ 
 (volta + refrão)
 
-<iframe width="280" height="157" src="https://www.youtube.com/embed/EQj1GzLkicU?si=DjhGDTfNYZLoz4ua" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/EQj1GzLkicU" frameborder="0"></iframe>
+

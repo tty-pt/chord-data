@@ -1,0 +1,61 @@
+Da Voz
+
+% Ultimo verso de cada estrove alterna Entre Am C ou F
+% Comecando por Am C em cada seccao.
+
+F Dm Gm A# C F A# Gm
+ 
+% Verso 1 – Dos Sujeitos e da Verdade
+A# F     Gm       F          A#        F
+   Antes do alvorecer, / uma Voz fez soar:
+Gm      A#      C        Am  C
+"Tolo é tudo falso / afirma--r.
+ 
+Por tudo em causa, e até a vida,
+é querer da verdade / arranjar / saída."
+ 
+Se há vi-são, há quem contemple; / Se há pensamento, há mente.
+Pouco inteligente é afirmar / que a tudo o falso extende
+
+Gm C
+
+% Refrao
+      C                F
+Nem maré nem tempo nem fome.
+          C        F           A#     Am   C     Gm
+A  Tua verdade não dorme, Voz Eterna, Voz Eterna.
+     C                   F
+Na estrela, na pedra, na chuva,
+    C                 F          A#     Am  C
+O real para sempre proclama, Tua Chama, Tua Chama.
+
+Gm
+
+% Verso 2 – Do Sujeito Necessário
+Tudo o que muda precisa de base, / Um chão onde a verdade jaz.
+Nenhum pensamento se há de perder, / Ninguém consegue agir sem ser.
+
+Negas mover-te, e fá-lo sem pensar. / Estar quieto é movimentar.
+Mesmo sem afirmares "Eu sou". / Não escapas ao que despertou.
+
+Am - Gm A#
+
+% Refrão (omitido)
+
+Am C
+
+% Verso 3 - Da tronco e das aguas
+Dizes que o rio te leva como um ramo, / Mas és mais como a àgua, que chamo. 
+Podes levar o que ruma sem vida. / Ou escolher ser casa que peixes abriga.
+ 
+A#                        Gm
+Quando os homens dormem, ainda a terra gira.
+A#                 C
+E os anjos ainda dedilham a lira.
+
+% Outro - Da Admissão do Ser (Falado) - acompanhado de acordes do refrao
+Eu sou a luz que brilha no cristal, / A árvore renascida, o rio no vale.
+Onde acreditas e escolhes ver, / Eu habito em ti, com eterno ser.
+
+% fade out
+

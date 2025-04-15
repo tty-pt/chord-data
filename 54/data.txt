@@ -1,29 +1,14 @@
 É tempo de ter esperança
 
-   F               Dm
-1. Sou apenas mais um cidadão
-Gm         C7       F
-que acredita no amor
-F     Dm
-E quem crê, por favor,
-Gm             C         F
-não disfarce a esperança que tem.
-F7                C#
-Quem não crê tem a minha
-amizade e respeito também.
-C#m   F           Dm        
-Eu, porém, acredito em Jesus
-Gm    C            F  
- a quem chamo Senhor. 
+|: C7 G | F C7 :| C7 F7 G Dm | C7 F7 G C7
+1. Sou apenas mais um cidadão / que acredita no amor
+E quem crê, por favor, / não disfarce a esperança que tem.
+Quem não crê tem a minha / amizade e respeito também.
+Eu, porém, acredito em Jesus / a quem chamo Senhor. 
 
-D       C7
-É tempo de ser esperança,
-G             C7   F
-É tempo de comunicar.
-F7                C#
-É tempo de ser testemunha de Deus
-F        G      C7      F
-Neste mundo que não sabe amar
+C7 | G C7 | C7 F7 | C7 G C
+É tempo de ser esperança, / É tempo de comunicar.
+É tempo de ser testemunha de Deus / Neste mundo que não sabe amar
 
 2. Neste mundo que faz da matéria seu Deus e seu fim,
 quem tem fé, por favor, não se omita fingindo não Ter;
@@ -34,4 +19,6 @@ Eu, porém, acredito que o Reino de Deus vive em mim.
 os cristãos com vergonha de ser como Cristo pediu.
 Tanta gente buscando a verdade em caminhos sem Deus,
 vou gritando com todas as forças de que sou capaz.
+
+<iframe src="https://www.youtube.com/embed/EwcuMiRfSZA" frameborder="0"></iframe>
 

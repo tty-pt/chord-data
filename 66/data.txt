@@ -1,18 +1,19 @@
 Faz chover
 
-G C D G C D G
+F A# C F A# C F
 (volta)
-
-G       D           C
+ 
+F       C           A#
 Alegria tempo de alegria,
-G                D          C
+F                C          A#
 tempo de vitoria tempo de celebração
 Hoje é festa no céu agora é festa,
 uma chuva vai cair neste lugar
-
-G    C  D
+ 
+F    A# C
 Faz chover (x3)
-             C                  D
+             A#                 C
 bençãos de alegria aqui neste lugar (bis)
 
 <iframe src="https://www.youtube.com/embed/scnBd3lAO0I" frameborder="0"></iframe>
+

@@ -1,29 +1,30 @@
 Eu preciso de Ti
 
-Cm  F/A  Bb  Eb/G  Ab  Am4
-C/D  Eb  F/Eb  Bb/D  Ab/C  C/D
-
-G     D/F#    Em       E7/G#
+Fm  A#/D  D#  G#/C  C#  Dm4
+F/G  G#  A#/G#  D#/G  C#/F  F/G
+ 
+C     G/B    Am       A7/C#
 Eu preciso de ti, meu Senhor
-Am   Am/G   D4/F# D
+Dm   Dm/C   G4/B G
 eu preciso de ti
- C        D/C     G/B
+ F        G/F     C/E
 Quero caminhar contigo
-      E7/G#           Am
+      A7/C#           Dm
 e não mais andar sozinho
-      D       G     C/E  D
+      G       C     F/A  G
 Eu preciso de Ti (bis)
-
-Eb7M   Dm7    Gm7      Eb7M   F/A       G
+ 
+G#7M   Gm7    Cm7      G#7M   A#/D       C
 Vem, Espírito Santo, ó vem, Espírito Santo (bis)
-
-      Cm7            F/A
+ 
+      Fm7            A#/D
 Vêm curar as minhas feridas
-     Bb     F/A      G
+     D#     A#/D      C
 Fecundar-me com nova vida
-    Cm7              Cm/Bb
+    Fm7              Fm/D#
 Inundar-me com o Teu amor
-    Gm7        G#         A       D/F#
+    Cm7        C#         D       G/B
 E fazer-me crescer em tua graça, Senhor
 
 <iframe src="https://www.youtube.com/embed/OAWlL68FziI" frameborder="0"></iframe>
+

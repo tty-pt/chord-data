@@ -1,27 +1,28 @@
 Oração de Santo Inácio
 
-  A      Em      C#m    Bm
+  B      F#m     D#m    C#m
 Tomai, Senhor, e recebei
-F#m               C#m
+G#m               D#m
 toda a minha liberdade,
-F#m       E
+G#m       F#
 a minha memória
-    D          F#m
+    E          G#m
 e o meu entendimento.
-                E
+                F#
 Toda a minha vontade
-   D             F#m
+   E             G#m
 e tudo o que eu possuo
-        E         D       A
+        F#        E       B
 Vós me destes, a vós o restituo.
-
+ 
 Tudo é Vosso, disponde.
 Pela vossa vontade,
 dai-me apenas, Senhor,
 o Vosso Amor e Graça,
-    E        A
+    F#       B
 que isso me basta
+ 
+C#m D#m C#m B
 
-Bm C#m Bm A
+<iframe src="https://www.youtube.com/embed/xpuB46CQ2ls?si=2jv4spl1zoGZqYkk" frameborder="0"></iframe>
 
-<iframe width="280" height="158" src="https://www.youtube.com/embed/xpuB46CQ2ls?si=2jv4spl1zoGZqYkk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

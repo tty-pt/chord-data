@@ -1,6 +1,5 @@
 Eu vim para que todos tenham vida
 
-- refrão:
 B7    Em9                       Am7
    Eu vim para que todos tenham vida
      B7                    Em
@@ -32,3 +31,4 @@ Onde morre o teu irmão eu estou morrendo nele
 Onde salvas teu irmão tu me estás salvando nele
 
 <iframe src="https://www.youtube.com/embed/giow4eYjHtg" frameborder="0"></iframe>
+

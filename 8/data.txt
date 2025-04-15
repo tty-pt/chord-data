@@ -1,15 +1,15 @@
 Eu sou o pão vivo
 
-G           Em       Am  D   G
+E           C#m      F#m B   E
 Eu sou o Pão vivo descido do Céu;
-     Em     Am               D
+     C#m    F#m              B
 Quem dele comer viverá eternamente:
-  C   D7  G
+  A   B7  E
 Tomai e comei.
-
-   G                            Em
+ 
+   E                            C#m
 1. Pão de Deus é o que desce do Céu
-C            Am         D
+A            F#m        B
   Para dar a vida ao mundo
 
 2. Isto é o Meu corpo entregue por vós.
@@ -28,3 +28,4 @@ C            Am         D
   viverá para sempre.
 
 <iframe src="https://www.youtube.com/embed/fT-qf_Z2h6c" frameborder="0"></iframe>
+

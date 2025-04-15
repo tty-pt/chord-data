@@ -1,25 +1,22 @@
 Santo (Alturas)
 
--- Chorus start
-
-A      C#m    D      F#m
+B      D#m    E      G#m
 Santo, Santo, Santo, Santo.
-  D   F#m   D          E
+  E   G#m   E          F#
 É o Senhor, Deus do Universo
-A      C#m    D      F#m
+B      D#m    E      G#m
 Santo, Santo, Santo, Santo.
-  D   F#m   D          A
+  E   G#m   E          B
 É o Senhor, Deus do Amor
-
--- Chorus end
-
-Bm   F#m C#m
+ 
+C#m  G#m D#m
 Hossana, --nas alturas.
 Hossana, --nas alturas.
-
-A          D
+ 
+B          E
 Bem dito é Aquele,
-    C#m
+    D#m
 que vem em nome do Senhor
-A    D      C#
+B    E      D#
 Hossana nas alturas.
+

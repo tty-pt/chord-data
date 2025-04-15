@@ -1,23 +1,24 @@
 Pra Te Adorar
 
-Dm  A7  Bb7  C7
+Dm Bb7 Gm A72 C72
 
            Dm
 Pra te adorar
- Dm/C       Bb7M
+              Bb7
 Foi que eu nasci
-      Gm         A7(13-)
-Pra exaltar a ti,  senhor (bis)
+      Gm            A7
+Pra exaltar a ti, senhor (bis)
 
         Dm
 A minha alma
-             Bb7M C
+    Bb7     C  Gm A#
 Tem sede de ti
          Dm
 O meu espírito
-  C#7M    C  Am
+    Gm    C  Am
 Necessita de ti
            A7
 Pra te adorar
 
-<iframe width="280" height="157" src="https://www.youtube.com/embed/Ah_kfsp_nt0?si=KEtukN_muN3JNW3L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/595B59t-vOI" frameborder="0"></iframe>
+

@@ -1,21 +1,22 @@
 Santo (Vintage)
 
-Am Dm  G  C
+C#m F#m B  E
 Santo, santo.
-Am        Dm              G  C
+C#m       F#m             B  E
 Santo é o Senhor, Deus do Universo
-Am       Dm     G        C
+C#m      F#m    B        E
 Cheios estão os céus e a terra
-Am     Dm      G    Am
+C#m    F#m     B    C#m
 da Tua glória, Hossana.
-
-Am   Dm  G    C   Am   Dm G   C
+ 
+C#m  F#m B    E   C#m  F#m B   E
 Hossana, hossana, hossana nos céus.
-
-Am   Dm  G    C   Am   Dm G   Am
+ 
+C#m  F#m B    E   C#m  F#m B   C#m
 Hossana, hossana, hossana nos céus.
-
-   Am         Dm     G         C
+ 
+   C#m        F#m    B         E
 Bendito o que vem em nome do Senhor,
-  Am        Dm      G  C
-Hossana nos céus, hossana.
+  C#m       F#m     B  E
+Hossana nos céus, hossana
+
