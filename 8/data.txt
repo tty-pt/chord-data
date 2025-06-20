@@ -2,7 +2,7 @@ Eu sou o pão vivo
 
 E           C#m      F#m B   E
 Eu sou o Pão vivo descido do Céu;
-     C#m    F#m              B
+     E     C#m      A        B
 Quem dele comer viverá eternamente:
   A   B7  E
 Tomai e comei.
@@ -26,3 +26,4 @@ A            F#m        B
 
 6. Se alguém comer deste pão,
   viverá para sempre.
+

@@ -1,10 +1,12 @@
 Aleluia (Glória a Deus)
 
-D  G     A        D
+E  A     B        E
 Aleluia, glória a Deus
-D        G   A    Bm
+E        A   B    C#m
 Glória a Cristo Senhor.
-D         G     A      Bm
+E         A     B      C#m
 Glória ao Espírito de Amor
-Bm G A D
+C#m A B E
 Alelu--ia
+
+% D -> E
