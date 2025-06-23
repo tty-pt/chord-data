@@ -1,5 +1,3 @@
-Da Voz
-
 % Ultimo verso de cada estrove alterna Entre Am C ou F
 % Comecando por Am C em cada seccao.
 

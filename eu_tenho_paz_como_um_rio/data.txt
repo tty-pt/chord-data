@@ -1,5 +1,3 @@
-Eu tenho paz como um rio
-
 (paz -> ["paz". "amor", "gozo", "paz, amor e gozo"])
 
 G
