@@ -1,9 +1,16 @@
-Bm A F#m7 Bm | Em A F# Bm
-1. Perdidos na noite da nossa ilusão, nós vamos, Senhor.
-Não sabemos dar-te toda a criação: só temos amor. (bis)
+
+Bm                               A   
+1. Perdidos na noite da nossa ilusão,
+    F#m7     Bm
+nós vamos, Senhor. (bis)
+            Em                A
+Não sabemos dar-te toda a criação:
+   F#     Bm
+só temos amor. (bis)
  
-Bm A Bm F# | Em A D F# Bm
-Pobres e fracos que somos, aceita-nos, Senhor.
+Bm                  A       Bm           F#
+Pobres e fracos que somos, aceita-nos, Senhor
+Em       A          D       F#             Bm
 Pobres e fracos que somos, aceita o nosso amor.
  
 2. Perdidos no tempo da história que avança, nós vamos Senhor.
@@ -11,3 +18,4 @@ Não somos capazes de viver a esperança: só temos amor. (bis)
  
 3. Romeiros, perdidos na noite sem paz, nós vamos, Senhor.
 Toda nossa vida não sabemos dar: só temos amor. (bis)
+
