@@ -1,10 +1,7 @@
- A#
-Desde o nascer ao
- Dm       D#
-Pôr-do-sol
-                     F7
-Seja louvado o nome do Senhor (bis)
- 
+ A#                Dm
+Desde o nascer ao Pôr-do-sol
+D#                    F7
+  Seja louvado o nome do Senhor (bis)
    A#
 Jesus
  
@@ -14,5 +11,6 @@ D#               Dm
   A salvação que ele nos trouxe
 D#                      Dm            D#
   Rendei-lhe hinos de glória e louvor
-              F D# Gm F7
-A Jesus salvado------r
+D#             F D# Gm F7
+  A Jesus salvado------r
+
