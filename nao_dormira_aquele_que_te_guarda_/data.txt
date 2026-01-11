@@ -1,21 +1,21 @@
-   D        A                G
+   D          A       D     G
 1. Levanto os olhos para os montes:
-D               A
- de onde virá o auxílio?
-F#m    G   A
- O meu auxílio vem
-F#m                 G       A
- do Senhor, que fez o céu e a terra.
+D                A
+de onde virá o auxílio?
+F#m       G   A
+O meu auxílio vem
+F#m                      G   A
+do Senhor, que fez o céu e a terra.
 
-D    A    Bm     F#m          G    A
- Não permitirá que vacilem os teus passos,                                            
-G      A    D   A    Bm   F#m
+D      A D Bm       F#m      A    G A
+Não permitirá que vacilem os teus passos,                                            
+G      D A  D      A      F#m Bm
 Não dormirá Aquele que te guarda.
-       Bm       F#m
-Não há-de adormecer
-      Bm       G
+    Em Bm     Em F#m
+Não há-de adorme-cer
+  A   Bm       A G
 O que guarda Israel. (bis)
-      G   A7     D
+  A   G      A7  D
 O que guarda Israel.
 
 2. O Senhor é quem te guarda,
@@ -27,3 +27,4 @@ nem a lua durante a noite.
 o Senhor vela pela tua vida.
 Ele te protege quando vais, quando vens,
 agora e para sempre.
+

@@ -1,5 +1,3 @@
--- Chorus start
-
   E      A        B  E
 Abri as portas a Cristo!
        A                 B7
@@ -8,8 +6,6 @@ Não temais, não tenhais medo:
 ‘scancarai o vosso coração
 A F#m       B B/F# E
 ao  Amor de Deus. (bis)
-
--- Chorus end
 
 C#m      F#m        G#m  C#m
 1. Testemunha de esperança
@@ -30,7 +26,14 @@ que anunciaste com a vida,
 firme e forte na prova
 confirmaste os teus irmãos.
 
--- Chorus
+  E      A        B  E
+Abri as portas a Cristo!
+       A                 B7
+Não temais, não tenhais medo:
+       G#m   A         B7  E
+‘scancarai o vosso coração
+A F#m       B B/F# E
+ao  Amor de Deus. (bis)
 
 C#m     F#m         G#m C#m
 4. Ensinaste a cada homem
@@ -49,3 +52,4 @@ núncio de misericórdia.
 6. Na tua dor revelaste
 o poder da Santa Cruz,
 guia sempre os teus irmquirin
+

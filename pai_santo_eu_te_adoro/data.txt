@@ -1,4 +1,5 @@
-- alterna entre Pai santo, Jesus Cristo, Espírito Santo, e Trindade Santa
+% Pai santo, Jesus Cristo,
+% Espírito Santo, Trindade Santa
 
 G    C            D G
 Pai Santo, eu Te adoro.

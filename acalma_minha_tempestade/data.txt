@@ -1,7 +1,4 @@
-% Time: 4/4
-
-% Introdução
-| G D | Em7 C9 |
+G D | Em7 C9
 
 % Verso
 |: G | - C9 | - | - G | - C9 | Em7 |
