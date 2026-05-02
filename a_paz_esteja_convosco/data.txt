@@ -1,25 +1,27 @@
-  D             Bm
+% Elisa (meio tom abaixo)
+ 
+  C             Am
 A paz esteja convosco
-G                  A
+F                  G
 Disse Jesus aos discípulos
-  D                     Bm
+  C                     Am
 Assim como o Pai me enviou
-   G               A
+   F               G
 Também vos envio a vós
-  D             Bm
+  C             Am
 A paz esteja convosco
-G     A   D
+F     G  C
 Ide e ensinai
-
-                       G
+ 
+|  C                   F
 Cordeiro de Deus que tirais,
-      A                 D F#m
+      G                C Em
 Que tirais o pecado do mundo
-- 1,2:
-Bm               Em
-Tende piedade de nós,
-A                D
-Tende piedade de nós
-   Bm        G      A   D 
-3. Dai-nos a paz, a paz!
-
+|1 Am              Dm
+   Tende piedade de nós,
+   G               C
+   Tende piedade de nós,
+|2 Am       F
+   Dai-nos a paz
+   G        C   | 
+   Dai-nos a paz
