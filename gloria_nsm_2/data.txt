@@ -20,6 +20,8 @@ nós Vos damos graças
     F              G
 por vossa imensa glória.
 
+C G C | F  C  G C
+
      C          G       F        C
 2. Senhor Jesus Cristo, Filho Unigénito,
 F      C        F        C
@@ -32,12 +34,14 @@ F        G        C
 tende piedade de nós;
 C         G        F       C
 Vós que tirais o pecado do mundo,
-   F            G
+F               G
 acolhei a nossa súplica;
 C         F           G     C
 Vós que estais à direita do Pai,
 G        F       G
 tende piedade de nós.
+
+C G C | F  C  G C
 
       F          G  C
 3. Só Vós sois o Santo;
